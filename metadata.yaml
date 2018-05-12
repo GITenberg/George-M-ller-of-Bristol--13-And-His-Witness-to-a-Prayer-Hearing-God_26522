@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32067'
     url: http://www.gutenberg.org/2009/agents/32067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26522#George-M-ller-of-Bristol--13-And-His-Witness-to-a-Prayer-Hearing-God
 gutenberg_issued: '2008-09-04'
 gutenberg_type: Text
 identifiers:
